@@ -1,1 +1,1 @@
-alert("Welcome to JS Land..." <br> "Happy Coding!");
+window.alert("Welcome to JS Land...\r\nHappy Coding!" );
